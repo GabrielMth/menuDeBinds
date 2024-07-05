@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Specification-Title: JNativeHook
+Specification-Version: 2.2
+Implementation-Title: JNativeHook
+Implementation-Version: 2.2-SNAPSHOT
+Main-Class: com.github.kwhat.jnativehook.example.NativeHookDemo
+Created-By: Maven Integration for Eclipse
+Multi-Release: true
+Project-Url: https://github.com:kwhat/jnativehook
+
